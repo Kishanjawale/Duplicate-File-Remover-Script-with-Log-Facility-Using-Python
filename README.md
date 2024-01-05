@@ -11,7 +11,7 @@ Features include:
         User-defined directory and checksum type for flexibility.
 
 Usage:
-    Clone: git clone https://github.com/yourusername/duplicate-file-remover.git
+    Clone: git clone [https://github.com/yourusername/duplicate-file-remover.git](https://github.com/Kishanjawale/Duplicate-File-Remover-Script-with-Log-Facility-Using-Python)
     Run: python duplicate_file_remover.py
 
 Benefits:
